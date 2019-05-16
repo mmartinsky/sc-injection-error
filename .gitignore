@@ -1,0 +1,13 @@
+.idea/
+
+node_modules/
+
+/**/dist/**
+!/packages/demo/dist/**
+!/**/dist/.npmignore
+
+public/
+
+lerna-debug.log
+.DS_Store
+/**/coverage/
